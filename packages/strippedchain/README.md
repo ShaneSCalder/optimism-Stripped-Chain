@@ -1,6 +1,7 @@
 # Stripped Chain
----
-logo here. 
+
+![Strippedchain_small_logo](https://github.com/user-attachments/assets/8aa381d6-0a61-4a8c-b2f8-d884ae685f23)
+
 ---
 
 ## Project Overview
