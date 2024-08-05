@@ -1,4 +1,7 @@
 # Stripped Chain
+---
+logo here. 
+---
 
 ## Project Overview
 Stripped Chain is a modular blockchain solution designed to securely manage and store various types of data with enhanced scalability and flexibility. By forking the OP Stack, Stripped Chain integrates advanced data handling, encryption, and micropayment functionalities, leveraging Optimism’s robust infrastructure. This provides a versatile framework for a wide range of applications, including document management, financial instruments, supply chain management, and healthcare records.
